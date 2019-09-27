@@ -1,0 +1,22 @@
+*{
+  border:solid 2px black
+}
+.ib{
+  display: inline-block;
+}
+h3{
+  background-color: #ccc;
+}
+.left{
+  float:left
+}
+.right{
+  float:right
+}
+.left,right.{
+  background-color: #f24;
+ padding:5px 10 px 
+}
+.floattext{
+  overflow:hidden
+}
